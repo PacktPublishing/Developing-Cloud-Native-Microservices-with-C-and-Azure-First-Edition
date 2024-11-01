@@ -1,0 +1,17 @@
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\bin\Debug\net8.0\DBDriver.deps.json
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\bin\Debug\net8.0\DBDriver.runtimeconfig.json
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\bin\Debug\net8.0\DBDriver.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\bin\Debug\net8.0\DBDriver.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\bin\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\bin\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.csproj.AssemblyReference.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.AssemblyInfoInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.AssemblyInfo.cs
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.csproj.CoreCompileInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.csproj.Up2Date
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\refint\DBDriver.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\DBDriver.genruntimeconfig.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\DBDriver\obj\Debug\net8.0\ref\DBDriver.dll

@@ -1,0 +1,45 @@
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.deps.json
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.dll
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.pdb
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.dll
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
+C:\Users\franc\source\repos\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.deps.json
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\bin\Debug\net8.0\ApplicationServices.deps.json
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\bin\Debug\net8.0\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\bin\Debug\net8.0\ApplicationServices.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\bin\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\bin\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitectureComplete\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll

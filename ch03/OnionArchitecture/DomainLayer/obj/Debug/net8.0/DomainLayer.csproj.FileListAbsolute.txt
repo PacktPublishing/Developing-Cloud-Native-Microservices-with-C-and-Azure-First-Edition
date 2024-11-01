@@ -1,0 +1,24 @@
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\franc\source\repos\OnionArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
