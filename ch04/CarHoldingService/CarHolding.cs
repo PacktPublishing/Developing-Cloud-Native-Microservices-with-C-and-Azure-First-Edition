@@ -5,7 +5,7 @@ using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Attributes;
 using Microsoft.Extensions.Logging;
 using System.Net;
 
-namespace ch04
+namespace CarHoldingService
 {
     public class CarHolding
     {

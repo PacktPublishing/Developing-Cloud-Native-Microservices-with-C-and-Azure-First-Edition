@@ -3,7 +3,7 @@ using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Enums;
 using Microsoft.OpenApi.Models;
 
 
-namespace ch04.Configurations
+namespace CarHoldingService.Configurations
 {
     public class OpenApiConfigurationOptions : DefaultOpenApiConfigurationOptions
     {
