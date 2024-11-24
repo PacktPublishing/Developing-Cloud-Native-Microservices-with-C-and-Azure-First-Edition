@@ -22,7 +22,7 @@ namespace ch04
         [OpenApiResponseWithBody(HttpStatusCode.Unauthorized, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.NotFound, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.InternalServerError, "text/plain", typeof(string))]
-        public IActionResult Create([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequest req)
+        public IActionResult Create([HttpTrigger(AuthorizationLevel.Function, "post", Route = "v1/Create")] HttpRequest req)
         {
             _logger.LogInformation("C# HTTP trigger function processed a post request.");
             return new OkObjectResult("C# HTTP trigger function processed a post request");
@@ -34,7 +34,7 @@ namespace ch04
         [OpenApiResponseWithBody(HttpStatusCode.Unauthorized, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.NotFound, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.InternalServerError, "text/plain", typeof(string))]
-        public IActionResult Read([HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequest req)
+        public IActionResult Read([HttpTrigger(AuthorizationLevel.Function, "get", Route = "v1/Read")] HttpRequest req)
         {
             _logger.LogInformation("C# HTTP trigger function processed a get request.");
             return new OkObjectResult("C# HTTP trigger function processed a get request.");
@@ -47,7 +47,7 @@ namespace ch04
         [OpenApiResponseWithBody(HttpStatusCode.Unauthorized, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.NotFound, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.InternalServerError, "text/plain", typeof(string))]
-        public IActionResult Update([HttpTrigger(AuthorizationLevel.Function, "put")] HttpRequest req)
+        public IActionResult Update([HttpTrigger(AuthorizationLevel.Function, "put", Route = "v1/Update")] HttpRequest req)
         {
             _logger.LogInformation("C# HTTP trigger function processed an update request.");
             return new OkObjectResult("C# HTTP trigger function processed an update request.");
@@ -59,7 +59,7 @@ namespace ch04
         [OpenApiResponseWithBody(HttpStatusCode.Unauthorized, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.NotFound, "text/plain", typeof(string))]
         [OpenApiResponseWithBody(HttpStatusCode.InternalServerError, "text/plain", typeof(string))]
-        public IActionResult Delete([HttpTrigger(AuthorizationLevel.Function, "delete")] HttpRequest req)
+        public IActionResult Delete([HttpTrigger(AuthorizationLevel.Function, "delete", Route = "v1/Delete")] HttpRequest req)
         {
             _logger.LogInformation("C# HTTP trigger function processed a delete request.");
             return new OkObjectResult("C# HTTP trigger function processed a delete request.");

@@ -9,8 +9,8 @@ namespace ch04.Configurations
     {
         public override OpenApiInfo Info { get; set; } = new OpenApiInfo()
         {
-            Title = "Car Holding API",
-            Description = "Car Holding APIs",
+            Title = "Car Holding Microservice API",
+            Description = "Car Holding Microservice APIs",
             Version = "v1",
             Contact = new OpenApiContact
             {
