@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditService", "AuditServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarHoldingService", "CarHoldingService\CarHoldingService.csproj", "{624B55DC-CC05-E59F-7544-BD3D17B34EF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemeletryService", "TemeletryService\TemeletryService.csproj", "{DD0E3706-260F-4313-A688-45E5B58A7D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{624B55DC-CC05-E59F-7544-BD3D17B34EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{624B55DC-CC05-E59F-7544-BD3D17B34EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{624B55DC-CC05-E59F-7544-BD3D17B34EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD0E3706-260F-4313-A688-45E5B58A7D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0E3706-260F-4313-A688-45E5B58A7D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0E3706-260F-4313-A688-45E5B58A7D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0E3706-260F-4313-A688-45E5B58A7D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
