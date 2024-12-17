@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBDriver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89038fb0d2de424cdddb702b7dd4ebed99a813a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBDriver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBDriver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

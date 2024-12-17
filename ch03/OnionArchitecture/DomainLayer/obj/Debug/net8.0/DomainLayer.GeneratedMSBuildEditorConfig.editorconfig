@@ -11,3 +11,5 @@ build_property.RootNamespace = DomainLayer
 build_property.ProjectDir = D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
