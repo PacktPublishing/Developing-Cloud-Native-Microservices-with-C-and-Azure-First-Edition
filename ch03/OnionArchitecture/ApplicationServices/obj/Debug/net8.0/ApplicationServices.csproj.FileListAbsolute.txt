@@ -28,3 +28,19 @@ D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\Applicati
 D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
 D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
 D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.deps.json
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\ApplicationServices.pdb
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\bin\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.sourcelink.json
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll

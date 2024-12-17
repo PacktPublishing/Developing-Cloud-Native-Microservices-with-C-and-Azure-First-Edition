@@ -84,11 +84,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\ApplicationServices.csproj",
+      "projectUniqueName": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\ApplicationServices.csproj",
       "projectName": "ApplicationServices",
-      "projectPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\ApplicationServices.csproj",
+      "projectPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\obj\\",
+      "outputPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -110,8 +110,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\DomainLayer.csproj"
+            "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\DomainLayer.csproj"
             }
           }
         }
@@ -124,8 +124,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -146,7 +147,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

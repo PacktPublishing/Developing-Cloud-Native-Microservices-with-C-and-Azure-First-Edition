@@ -22,3 +22,16 @@ D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLay
 D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 D:\imp\libri\libro 2024\MyFirstDrafts\Chapter 3\Code\OnionArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\imp\libri\libro 2024\Code\ch03\OnionArchitecture\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qerWczHWts=",
+  "dgSpecHash": "KKcokjc5ywE=",
   "success": true,
-  "projectFilePath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\ApplicationServices.csproj",
+  "projectFilePath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\ApplicationServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
   ],

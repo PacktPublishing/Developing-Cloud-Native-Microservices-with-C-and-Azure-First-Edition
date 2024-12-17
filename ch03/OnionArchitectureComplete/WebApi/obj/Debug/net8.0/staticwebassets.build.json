@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "lAVsf4/XP8OL4a3UKcpKodesbBfBaGYqErDYy8hI7Xs=",
+  "Hash": "3fzD1EelHVW7I8sZnXbFvVts4pyDK1lx9zGyE0YOAsI=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

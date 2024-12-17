@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\",
+  "WorkspaceRootPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\applicationservices\\extensions\\handlersdiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\applicationservices\\extensions\\handlersdiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\extensions\\handlersdiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\applicationservices\\tools\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\applicationservices\\tools\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\tools\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\domainlayer\\tools\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\domainlayer\\tools\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\domainlayer\\tools\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\domainlayer\\tools\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\applicationservices\\tools\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\applicationservices\\tools\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\tools\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\applicationservices\\tools\\eventmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\applicationservices\\tools\\eventmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\tools\\eventmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\domainlayer\\tools\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\domainlayer\\tools\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecture\\domainlayer\\tools\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecture\\domainlayer\\tools\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -92,9 +92,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Tools\\ICommandHandler.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Tools\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Tools\\ICommandHandler.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Tools\\ICommandHandler.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Tools\\ICommandHandler.cs",
               "RelativeToolTip": "ApplicationServices\\Tools\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\IRepository.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\IRepository.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\IRepository.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\IRepository.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\IRepository.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EventMediator.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Tools\\EventMediator.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Tools\\EventMediator.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Tools\\EventMediator.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Tools\\EventMediator.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Tools\\EventMediator.cs",
               "RelativeToolTip": "ApplicationServices\\Tools\\EventMediator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,11 +128,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HandlersDIExtensions.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
               "RelativeToolTip": "ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwE8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T17:05:05.54Z",
               "EditorCaption": ""
@@ -141,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\Entity.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\Entity.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\Entity.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\Entity.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\Entity.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IEventNotification.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\IEventNotification.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\IEventNotification.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\IEventNotification.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\IEventNotification.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\IEventNotification.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\IEventNotification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\IUnitOfWork.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\DomainLayer\\Tools\\IUnitOfWork.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\DomainLayer\\Tools\\IUnitOfWork.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "EventTrigger.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Tools\\EventTrigger.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Tools\\EventTrigger.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Tools\\EventTrigger.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitecture\\ApplicationServices\\Tools\\EventTrigger.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitecture\\ApplicationServices\\Tools\\EventTrigger.cs",
               "RelativeToolTip": "ApplicationServices\\Tools\\EventTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

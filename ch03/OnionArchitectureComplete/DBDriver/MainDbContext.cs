@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Data;
 namespace DBDriver
 {
     internal class MainDbContext : DbContext, IUnitOfWork
@@ -21,11 +21,22 @@ namespace DBDriver
         #region IUnitOfWork Implementation
         public async Task<bool> SaveEntitiesAsync()
         {
-            return await SaveChangesAsync() > 0; ;
+            try
+            {
+                return await SaveChangesAsync() > 0;
+            }
+            catch (DbUpdateConcurrencyException ex)
+            {
+                throw new ConcurrencyException(ex);
+            }
+            catch (DbUpdateException ex)
+            {
+                throw new ConstraintViolationException(ex);
+            }
         }
-        public async Task StartAsync()
+        public async Task StartAsync(IsolationLevel isolationLevel = IsolationLevel.ReadCommitted)
         {
-            await Database.BeginTransactionAsync();
+            await Database.BeginTransactionAsync(isolationLevel);
         }
         public Task CommitAsync()
         {

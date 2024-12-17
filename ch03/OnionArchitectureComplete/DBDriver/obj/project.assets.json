@@ -4064,11 +4064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\DBDriver.csproj",
+      "projectUniqueName": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\DBDriver.csproj",
       "projectName": "DBDriver",
-      "projectPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\DBDriver.csproj",
+      "projectPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\DBDriver.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\obj\\",
+      "outputPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4090,8 +4090,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\DomainLayer.csproj"
+            "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\DomainLayer.csproj"
             }
           }
         }
@@ -4104,8 +4104,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4138,8 +4139,60 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Formats.Asn1' 5.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-447r-wph3-92pm",
+      "libraryId": "System.Formats.Asn1",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

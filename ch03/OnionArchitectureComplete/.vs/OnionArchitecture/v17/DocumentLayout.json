@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\",
+  "WorkspaceRootPath": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA463DC3-4706-4AAE-ADB0-1CC63DC43399}|WebApi\\WebApi.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA463DC3-4706-4AAE-ADB0-1CC63DC43399}|WebApi\\WebApi.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA463DC3-4706-4AAE-ADB0-1CC63DC43399}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\dbdriver\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\dbdriver\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|solutionrelative:dbdriver\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\dbdriver\\extensions\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\dbdriver\\extensions\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|solutionrelative:dbdriver\\extensions\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\dbdriver\\extensions\\repositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\dbdriver\\extensions\\repositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F645C2-CD50-498A-82A5-B3C13BBF0971}|DBDriver\\DBDriver.csproj|solutionrelative:dbdriver\\extensions\\repositoryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\applicationservices\\extensions\\handlersdiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\applicationservices\\extensions\\handlersdiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\extensions\\handlersdiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\applicationservices\\tools\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\applicationservices\\tools\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\tools\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\domainlayer\\tools\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\domainlayer\\tools\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\domainlayer\\tools\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\domainlayer\\tools\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\applicationservices\\tools\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\applicationservices\\tools\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\tools\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\applicationservices\\tools\\eventmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\applicationservices\\tools\\eventmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D24E6-1A4C-4653-9FDE-ECBC187A6703}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\tools\\eventmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\domainlayer\\tools\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\domainlayer\\tools\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\ieventnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\myfirstdrafts\\chapter 3\\code\\onionarchitecturecomplete\\domainlayer\\tools\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|d:\\imp\\libri\\libro 2024\\code\\ch03\\onionarchitecturecomplete\\domainlayer\\tools\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FE02F3-43E7-4A50-AF1F-1E1BE95C92C6}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\tools\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,34 +58,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 578,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositoryExtensions.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\Extensions\\RepositoryExtensions.cs",
-              "RelativeDocumentMoniker": "DBDriver\\Extensions\\RepositoryExtensions.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\Extensions\\RepositoryExtensions.cs",
-              "RelativeToolTip": "DBDriver\\Extensions\\RepositoryExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T10:34:02.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T10:02:03.442Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
@@ -132,133 +106,148 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryExtensions.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\Extensions\\RepositoryExtensions.cs",
+              "RelativeDocumentMoniker": "DBDriver\\Extensions\\RepositoryExtensions.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\Extensions\\RepositoryExtensions.cs",
+              "RelativeToolTip": "DBDriver\\Extensions\\RepositoryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:34:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:02:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainDbContext.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\MainDbContext.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\MainDbContext.cs",
               "RelativeDocumentMoniker": "DBDriver\\MainDbContext.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\MainDbContext.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\MainDbContext.cs",
               "RelativeToolTip": "DBDriver\\MainDbContext.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:56:58.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:56:58.574Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DBExtensions.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\Extensions\\DBExtensions.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\Extensions\\DBExtensions.cs",
               "RelativeDocumentMoniker": "DBDriver\\Extensions\\DBExtensions.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DBDriver\\Extensions\\DBExtensions.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DBDriver\\Extensions\\DBExtensions.cs",
               "RelativeToolTip": "DBDriver\\Extensions\\DBExtensions.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:52:16.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:52:16.661Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Tools\\ICommandHandler.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Tools\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Tools\\ICommandHandler.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Tools\\ICommandHandler.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Tools\\ICommandHandler.cs",
               "RelativeToolTip": "ApplicationServices\\Tools\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:25:08.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T08:25:08.771Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\IRepository.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\IRepository.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\IRepository.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\IRepository.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\IRepository.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T21:02:07.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T21:02:07.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "EventMediator.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventMediator.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventMediator.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Tools\\EventMediator.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventMediator.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventMediator.cs",
               "RelativeToolTip": "ApplicationServices\\Tools\\EventMediator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:26:37.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:26:37.695Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HandlersDIExtensions.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
               "RelativeToolTip": "ApplicationServices\\Extensions\\HandlersDIExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:05:05.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T17:05:05.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\Entity.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\Entity.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\Entity.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\Entity.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\Entity.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:52:34.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:52:34.783Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IEventNotification.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\IEventNotification.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\IEventNotification.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\IEventNotification.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\IEventNotification.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\IEventNotification.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\IEventNotification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:52:05.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:52:05.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Tools\\IUnitOfWork.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\DomainLayer\\Tools\\IUnitOfWork.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\DomainLayer\\Tools\\IUnitOfWork.cs",
               "RelativeToolTip": "DomainLayer\\Tools\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:51:57.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:51:57.563Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EventTrigger.cs",
-              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventTrigger.cs",
+              "DocumentMoniker": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventTrigger.cs",
               "RelativeDocumentMoniker": "ApplicationServices\\Tools\\EventTrigger.cs",
-              "ToolTip": "D:\\imp\\libri\\libro 2024\\MyFirstDrafts\\Chapter 3\\Code\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventTrigger.cs",
+              "ToolTip": "D:\\imp\\libri\\libro 2024\\Code\\ch03\\OnionArchitectureComplete\\ApplicationServices\\Tools\\EventTrigger.cs",
               "RelativeToolTip": "ApplicationServices\\Tools\\EventTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:49:44.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:49:44.614Z"
             }
           ]
         }
