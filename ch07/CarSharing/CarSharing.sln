@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutesPlanning", "RoutesPlanning\RoutesPlanning.csproj", "{1854108C-85B7-42E6-81DC-A10EA334B48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutesPlanningDomainLayer", "RoutesPlanningDomainLayer\RoutesPlanningDomainLayer.csproj", "{DBB6B52E-DF93-4D5A-A0F5-8BAE7CE77A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutesPlanningApplicationServices", "RoutesPlanningApplicationServices\RoutesPlanningApplicationServices.csproj", "{683BFF3D-F337-45F5-8268-FC1F3AB1B4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutesPlanningDBDriver", "RoutesPlanningDBDriver\RoutesPlanningDBDriver.csproj", "{C73E1C85-0716-420D-B971-6D300637BFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedMessages", "SharedMessages\SharedMessages.csproj", "{984C6129-7F31-43F7-8B11-FCCD4CF7216E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1854108C-85B7-42E6-81DC-A10EA334B48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1854108C-85B7-42E6-81DC-A10EA334B48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1854108C-85B7-42E6-81DC-A10EA334B48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1854108C-85B7-42E6-81DC-A10EA334B48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB6B52E-DF93-4D5A-A0F5-8BAE7CE77A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB6B52E-DF93-4D5A-A0F5-8BAE7CE77A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB6B52E-DF93-4D5A-A0F5-8BAE7CE77A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB6B52E-DF93-4D5A-A0F5-8BAE7CE77A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683BFF3D-F337-45F5-8268-FC1F3AB1B4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683BFF3D-F337-45F5-8268-FC1F3AB1B4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683BFF3D-F337-45F5-8268-FC1F3AB1B4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683BFF3D-F337-45F5-8268-FC1F3AB1B4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73E1C85-0716-420D-B971-6D300637BFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73E1C85-0716-420D-B971-6D300637BFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73E1C85-0716-420D-B971-6D300637BFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73E1C85-0716-420D-B971-6D300637BFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984C6129-7F31-43F7-8B11-FCCD4CF7216E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984C6129-7F31-43F7-8B11-FCCD4CF7216E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984C6129-7F31-43F7-8B11-FCCD4CF7216E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984C6129-7F31-43F7-8B11-FCCD4CF7216E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

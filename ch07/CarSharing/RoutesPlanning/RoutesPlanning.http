@@ -1,0 +1,6 @@
+@RoutesPlanning_HostAddress = http://localhost:49153
+
+GET {{RoutesPlanning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
