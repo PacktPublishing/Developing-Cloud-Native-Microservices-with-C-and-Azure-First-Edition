@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights.sdk"
+    },
+    "storage1": {
+      "type": "storage.emulator",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "storage2": {
+      "secretStore": "LocalSecretsFile",
+      "resourceId": null,
+      "type": "storage.emulator",
+      "connectionId": "StorageConnection"
+    },
+    "storage3": {
+      "secretStore": "LocalSecretsFile",
+      "type": "storage.emulator",
+      "connectionId": "BlobTriggerConnection",
+      "dynamicId": null
+    },
+    "storage4": {
+      "secretStore": "LocalSecretsFile",
+      "type": "storage.emulator",
+      "connectionId": "Teste",
+      "dynamicId": null
+    }
+  }
+}
