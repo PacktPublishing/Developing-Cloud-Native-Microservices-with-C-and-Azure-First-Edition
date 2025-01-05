@@ -1,7 +1,6 @@
-using CarShareBackground;
-using Microsoft.Azure.Functions.Worker.Builder;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Configuration;
+using CarShareBackground;
 
 var host = new HostBuilder()
     .ConfigureFunctionsWebApplication()

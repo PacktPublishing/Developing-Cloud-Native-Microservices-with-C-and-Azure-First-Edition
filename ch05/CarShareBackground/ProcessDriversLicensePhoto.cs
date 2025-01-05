@@ -11,7 +11,7 @@ namespace CarShareBackground
 
         public ProcessDriversLicensePhoto(ILoggerFactory loggerFactory)
         {
-            _logger = loggerFactory.CreateLogger<ProcessBilling>();
+            _logger = loggerFactory.CreateLogger<ProcessDriversLicensePhoto>();
         }
 
         [Function(nameof(ProcessDriversLicensePhoto))]

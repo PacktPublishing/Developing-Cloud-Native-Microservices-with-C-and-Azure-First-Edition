@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShareBackground", "CarSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageTrigger", "BlobStorageTrigger\BlobStorageTrigger.csproj", "{30BAA04D-DD19-434F-ABBE-5955BB33FB03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageTriggerEventGrid", "BlobStorageTriggerEventGrid\BlobStorageTriggerEventGrid.csproj", "{1E09D074-68DF-447B-8B88-BC6769B2A3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{30BAA04D-DD19-434F-ABBE-5955BB33FB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30BAA04D-DD19-434F-ABBE-5955BB33FB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30BAA04D-DD19-434F-ABBE-5955BB33FB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
