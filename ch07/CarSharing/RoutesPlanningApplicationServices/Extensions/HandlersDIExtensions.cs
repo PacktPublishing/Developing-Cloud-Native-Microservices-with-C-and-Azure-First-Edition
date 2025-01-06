@@ -26,8 +26,7 @@ namespace DDD.ApplicationLayer
             return AddApplicationServices(services,
                 typeof(HandlersDIExtensions).Assembly);
         }
-        #region private members
-        private static IServiceCollection AddEventHandler<T, H>
+        public static IServiceCollection AddEventHandler<T, H>
             (this IServiceCollection services)
             where T : IEventNotification
             where H : class, IEventHandler<T>
@@ -37,7 +36,9 @@ namespace DDD.ApplicationLayer
 
             return services;
         }
-        
+        #region private members
+
+
         private static IServiceCollection AddAllEventHandlers
             (this IServiceCollection services, Assembly assembly)
         {
