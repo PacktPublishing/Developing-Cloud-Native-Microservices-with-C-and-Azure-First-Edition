@@ -33,7 +33,8 @@ namespace RoutesPlanningDBDriver.Repositories
             {
                 Id = Guid.NewGuid(),
                 MessageCode = messageCode,
-                MessageContent = JsonSerializer.Serialize(item)
+                MessageContent = JsonSerializer.Serialize(item),
+                ReadyTime = DateTime.Now,
             };
             var res = new QueueItem(entity);
             ctx.OutputQueueItems.Add(entity);

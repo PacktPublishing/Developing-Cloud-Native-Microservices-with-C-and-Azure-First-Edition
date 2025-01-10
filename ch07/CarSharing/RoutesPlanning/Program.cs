@@ -1,6 +1,7 @@
 using DBDriver.Extensions;
 using DDD.ApplicationLayer;
 using EasyNetQ;
+using Microsoft.AspNetCore.Http.HttpResults;
 using RoutesPlanning.HostedServices;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,8 +14,10 @@ builder.Services.AddDbDriver(
 builder.Services.AddEasyNetQ(
     builder.Configuration?.GetConnectionString("RabbitMQConnection")??string.Empty)
     .UseAlwaysNackWithRequeueConsumerErrorStrategy();
-builder.Services.AddHostedService<MainService>();
+builder.Services.AddHostedService<OutputSendingService>();
 builder.Services.AddHostedService<HouseKeepingService>();
+builder.Services.AddHostedService<MainService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,28 +26,14 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
 
-app.MapGet("/weatherforecast", () =>
+
+app.MapGet("/liveness", () =>
 {
-    var forecast = Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
+    if (MainService.ErrorsCount < 6) return Results.Ok();
+    else return Results.InternalServerError();
 })
-.WithName("GetWeatherForecast");
+.WithName("GetLiveness");
 
 app.Run();
 
-internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

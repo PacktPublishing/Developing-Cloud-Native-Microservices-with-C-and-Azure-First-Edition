@@ -1,6 +1,7 @@
-@RoutesPlanning_HostAddress = http://localhost:49153
+@RoutesPlanning_HostAddress = http://localhost:32778
 
-GET {{RoutesPlanning_HostAddress}}/weatherforecast/
+GET {{RoutesPlanning_HostAddress}}/liveness
+
 Accept: application/json
 
 ###

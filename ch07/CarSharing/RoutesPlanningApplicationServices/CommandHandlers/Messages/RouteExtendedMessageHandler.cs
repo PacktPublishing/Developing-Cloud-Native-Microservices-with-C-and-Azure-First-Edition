@@ -35,7 +35,7 @@ namespace RoutesPlanningApplicationServices.CommandHandlers.Messages
                             .Select(m => new Coordinate(m.Location!.Longitude, m.Location.Latitude)).ToArray(),
                         message.Closed);
                     if (route.DomainEvents != null && route.DomainEvents.Count > 0)
-                        mediator.Equals(route.DomainEvents);
+                        await mediator.TriggerEvents(route.DomainEvents);
                     await uow.SaveEntitiesAsync();
                     await uow.CommitAsync();
                 }

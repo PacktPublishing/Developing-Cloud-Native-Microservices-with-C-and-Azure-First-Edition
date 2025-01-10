@@ -68,7 +68,7 @@ namespace RoutesPlanningApplicationServices.EventHandlers
                 var message = new RouteExtensionProposalsMessage
                 {
                     RouteId = offer.Id,
-                    Proposals = proposals,
+                    Proposals = proposals
                 };
                 queueRepo.New<RouteExtensionProposalsMessage>(message, 1);
             }

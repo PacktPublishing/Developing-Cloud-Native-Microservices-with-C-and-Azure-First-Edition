@@ -11,6 +11,7 @@ namespace RoutesPlanning.HostedServices
     {
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
+            Console.WriteLine("ENTRATO MAIN");
             var routeOfferSubscription = await bus.PubSub.SubscribeAsync<RouteOfferMessage>(
                 SubscriptionId<RouteOfferMessage>(),SafeProcessMessage, stoppingToken);
             var routeClosedAbortedSubscription = await bus.PubSub.SubscribeAsync<RouteClosedAbortedMessage>(
@@ -19,8 +20,8 @@ namespace RoutesPlanning.HostedServices
                 SubscriptionId<RouteExtendedMessage>(), SafeProcessMessage, stoppingToken);
             var routeRequestSubscription = await bus.PubSub.SubscribeAsync<RouteRequestMessage>(
                 SubscriptionId<RouteRequestMessage>(), SafeProcessMessage, stoppingToken);
-            
-            stoppingToken.WaitHandle.WaitOne();
+
+            await Task.Delay(Timeout.Infinite, stoppingToken);
 
             routeRequestSubscription.Dispose();
             routeExtendedSubscription.Dispose();

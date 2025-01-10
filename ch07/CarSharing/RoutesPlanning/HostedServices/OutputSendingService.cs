@@ -19,7 +19,7 @@ namespace RoutesPlanning.HostedServices
         {
             //update interval in milliseconds
             int updateInterval =
-                configuration.GetValue<int>("Timing__OutputEmptyDelayMS") ;
+                configuration.GetValue<int>("Timing:OutputEmptyDelayMS") ;
             bool queueEmpty = false;
             while (!stoppingToken.IsCancellationRequested)
             {
