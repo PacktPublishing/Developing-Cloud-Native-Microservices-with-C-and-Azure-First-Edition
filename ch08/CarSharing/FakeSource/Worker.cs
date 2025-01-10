@@ -90,7 +90,7 @@ namespace FakeSource
             await _bus.PubSub.PublishAsync<RouteRequestMessage>(request2);
             await Task.Delay(2*delayInterval, stoppingToken);
             await _bus.PubSub.PublishAsync<RouteExtendedMessage>(extendedMessage);
-            stoppingToken.WaitHandle.WaitOne();
+            await Task.Delay(Timeout.Infinite, stoppingToken);
         }
     }
 }
