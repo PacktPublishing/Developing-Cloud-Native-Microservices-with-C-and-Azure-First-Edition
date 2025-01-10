@@ -1,0 +1,30 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: nginx
+  namespace: basic-examples
+  labels:
+    app: webservers
+spec:
+  selector:
+    matchLabels:
+      app: webservers
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: webservers
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        ports:
+        - containerPort: 80
+          name: web
+        volumeMounts:
+        - mountPath: /usr/share/nginx/html
+          name: website
+      volumes:
+      - name: website
+        persistentVolumeClaim:
+          claimName: website

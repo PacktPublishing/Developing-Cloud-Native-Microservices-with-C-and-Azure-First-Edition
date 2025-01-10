@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: webservers-service
+  namespace: basic-examples
+spec:
+  type: LoadBalancer
+  selector:
+    app: webservers
+  ports:
+  - name: http
+    protocol: TCP
+    port: 80
+    targetPort: 80

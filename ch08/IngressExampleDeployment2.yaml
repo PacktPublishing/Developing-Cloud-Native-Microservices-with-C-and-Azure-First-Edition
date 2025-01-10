@@ -1,0 +1,35 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: helloworldingress2
+  namespace: basic-examples
+  labels:
+    app: helloworldingress2
+spec:
+  selector:
+    matchLabels:
+      app: helloworldingress2
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: helloworldingress2
+    spec:
+      containers:
+      - image: gcr.io/google-samples/hello-app:2.0
+        name: hello-app2
+        ports:
+        - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: helloworldingress2-service
+  namespace: basic-examples
+spec:
+  selector:
+    app: helloworldingress2
+  ports:
+  - name: http
+    port: 8080
+    targetPort: 8080

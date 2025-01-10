@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "FakeDestination": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "ConnectionStrings__RabbitMQConnection": "host=host.docker.internal:5672;username=guest;password=_myguest;publisherConfirms=true;timeout=10"
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json"
+}

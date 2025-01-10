@@ -1,0 +1,49 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: podname
+  namespace: basic-examples
+  labels:
+    app: podname
+spec:
+  ports:
+  - port: 80
+  clusterIP: None
+  selector:
+    app: podname
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: podname
+  namespace: basic-examples
+spec:
+  selector:
+    matchLabels:
+      app: podname 
+  serviceName: "podname"
+  replicas: 3 
+  template:
+    metadata:
+      labels:
+        app: podname 
+    spec:
+      containers:
+      - name: test
+        image: alpine:latest
+        command: ['sh', '-c', 'while true; do echo $(MY_POD_NAME); sleep 3; done']
+        ports:
+        - containerPort: 80
+        env:
+        - name: MY_POD_NAME
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.name
+  volumeClaimTemplates:
+  - metadata:
+      name: volumetest
+    spec:
+      accessModes: [ "ReadWriteOnce" ]
+      resources:
+        requests:
+          storage: 1Gi
