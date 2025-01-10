@@ -23,7 +23,7 @@ namespace FakeSource
             var requestUser2 = new UserBasicInfoMessage
                 { Id = Guid.NewGuid(), DisplayName = "RequestUser2" };
             var offerUser = new UserBasicInfoMessage
-                { Id = Guid.NewGuid(), DisplayName = "RequestUser2" };
+                { Id = Guid.NewGuid(), DisplayName = "OfferUser" };
 
             var offerDate = DateTime.Now.AddDays(10);
             var requestDateInterval = new TimeIntervalMessage
