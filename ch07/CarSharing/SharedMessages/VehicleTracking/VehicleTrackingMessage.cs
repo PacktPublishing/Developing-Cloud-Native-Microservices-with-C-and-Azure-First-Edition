@@ -1,7 +1,5 @@
 ﻿using SharedMessages.BasicTypes;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SharedMessages.VehicleTracking
 {
@@ -15,5 +13,4 @@ namespace SharedMessages.VehicleTracking
         public double FuelLevel { get; set; }
         public double TirePressure { get; set; }    
     }
-    
 }
