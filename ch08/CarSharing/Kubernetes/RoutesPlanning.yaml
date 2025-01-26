@@ -1,0 +1,60 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: routesplanning
+  namespace: car-sharing
+  labels:
+    app: car-sharing
+    classification: worker
+    role: routes-planning
+spec:
+  selector:
+    matchLabels:
+      app: car-sharing
+      role: routes-planning
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: car-sharing
+        classification: worker
+        role: routes-planning
+    spec:
+      containers:
+      - image: host.docker.internal:5000/routesplanning:latest
+        name: routesplanning
+        ports:
+        - containerPort: 8080
+        resources:
+          requests:
+            cpu: 10m
+            memory: 10Mi
+        env:
+        - name: ASPNETCORE_HTTP_PORTS
+          value: "8080"
+        - name: ConnectionStrings__DefaultConnection
+          value: "Server=host.docker.internal;Database=RoutesPlanning;User Id=sa;Password=Passw0rd_;Trust Server Certificate=True;MultipleActiveResultSets=true"
+        - name: ConnectionStrings__RabbitMQConnection
+          value: "host=host.docker.internal:5672;username=guest;password=_myguest;publisherConfirms=true;timeout=10"
+        - name: Messages__SubscriptionIdPrefix
+          value: "routesPlanning"
+        - name: Topology__MaxDistanceKm
+          value: "50"
+        - name: Topology__MaxMatches
+          value: "5"
+        - name: Timing__HousekeepingIntervalHours
+          value: "48"
+        - name: Timing__HousekeepingDelayDays
+          value: "10"
+        - name: Timing__OutputEmptyDelayMS
+          value: "500"
+        - name: Timing__OutputBatchCount
+          value: "10"
+        - name: Timing__OutputRequeueDelayMin
+          value: "5"
+        - name: Timing__OutputCircuitBreakMin
+          value: "4"
+        
+        
+        
+        

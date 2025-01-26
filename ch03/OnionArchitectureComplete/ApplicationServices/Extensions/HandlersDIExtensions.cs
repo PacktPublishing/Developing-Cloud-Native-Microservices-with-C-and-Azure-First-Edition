@@ -32,7 +32,7 @@ namespace DDD.ApplicationLayer
             where T : IEventNotification
             where H : class, IEventHandler<T>
         {
-            services.AddScoped<H>();
+            services.AddScoped<IEventHandler<T>, H>();
             services.TryAddScoped(typeof(EventTrigger<>));
 
             return services;
@@ -43,7 +43,7 @@ namespace DDD.ApplicationLayer
         {
             var method=typeof(HandlersDIExtensions)
                 .GetMethod(nameof(AddEventHandler),
-                BindingFlags.Static | BindingFlags.Public);
+                BindingFlags.Static | BindingFlags.NonPublic);
 
             var handlers=assembly.GetTypes()
                 .Where(x => !x.IsAbstract && x.IsClass 
