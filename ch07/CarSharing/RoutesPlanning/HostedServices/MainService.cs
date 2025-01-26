@@ -4,6 +4,7 @@ using EasyNetQ;
 using Microsoft.IdentityModel.Tokens;
 using RoutesPlanningApplicationServices.Commands;
 using SharedMessages.RouteNegotiation;
+using SharedMessages.VehicleTracking;
 
 namespace RoutesPlanning.HostedServices
 {
@@ -19,6 +20,8 @@ namespace RoutesPlanning.HostedServices
             var routeExtendedSubscription = await bus.PubSub.SubscribeAsync<RouteExtendedMessage>(
                 SubscriptionId<RouteExtendedMessage>(), SafeProcessMessage, stoppingToken);
             var routeRequestSubscription = await bus.PubSub.SubscribeAsync<RouteRequestMessage>(
+                SubscriptionId<RouteRequestMessage>(), SafeProcessMessage, stoppingToken);
+            var vehicleTrackingSubscription = await bus.PubSub.SubscribeAsync<VehicleTrackingMessage>(
                 SubscriptionId<RouteRequestMessage>(), SafeProcessMessage, stoppingToken);
 
             await Task.Delay(Timeout.Infinite, stoppingToken);
