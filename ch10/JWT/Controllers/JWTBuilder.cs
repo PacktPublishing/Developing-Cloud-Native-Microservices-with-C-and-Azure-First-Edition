@@ -60,7 +60,7 @@ namespace ch10.Controllers
             return this; // Returning the current instance
         }
 
-        public JWT Build() // Method to build the JWT
+        public JWT  Build() // Method to build the JWT
         {
             var claims = new List<Claim> // Creating a list of claims
                 {
