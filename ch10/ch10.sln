@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwt", "JWT\jwt.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth20", "OAuth20\OAuth20.csproj", "{6D8BDC8A-03DA-4CBA-BE83-3384C8070886}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trace", "Trace\Trace.csproj", "{8C4610DB-BB88-41AF-B2F2-AFD04B1515F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6D8BDC8A-03DA-4CBA-BE83-3384C8070886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D8BDC8A-03DA-4CBA-BE83-3384C8070886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D8BDC8A-03DA-4CBA-BE83-3384C8070886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4610DB-BB88-41AF-B2F2-AFD04B1515F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4610DB-BB88-41AF-B2F2-AFD04B1515F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4610DB-BB88-41AF-B2F2-AFD04B1515F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4610DB-BB88-41AF-B2F2-AFD04B1515F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
