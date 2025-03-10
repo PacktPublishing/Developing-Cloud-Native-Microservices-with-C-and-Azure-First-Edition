@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ch04": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7156"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "containerRunArguments": "--init",
+      "httpPort": 34709,
+      "useSSL": false
+    }
+  }
+}

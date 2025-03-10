@@ -11,9 +11,9 @@
     <PackageReference Include="EasyNetQ" Version="8.0.0-beta98" />
     <PackageReference Include="EasyNetQ.Serialization.NewtonsoftJson" Version="8.0.0-beta98" />
     <PackageReference Include="EasyNetQ.Serialization.SystemTextJson" Version="8.0.0-beta98" />
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
-    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
-    <PackageReference Include="Polly" Version="8.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.2" />
+    <PackageReference Include="Polly" Version="8.5.2" />
   </ItemGroup>
 
   <ItemGroup>
