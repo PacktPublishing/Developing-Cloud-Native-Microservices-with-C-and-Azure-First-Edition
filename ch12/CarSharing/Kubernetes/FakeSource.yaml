@@ -1,0 +1,33 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: fakesource
+  namespace: car-sharing
+  labels:
+    app: car-sharing
+    classification: stub
+    role: fake-source
+spec:
+  selector:
+    matchLabels:
+      app: car-sharing
+      role: fake-source
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: car-sharing
+        classification: stub
+        role: fake-source
+    spec:
+      containers:
+      - image: host.docker.internal:5000/fakesource:latest
+        name: fakesource
+        resources:
+          requests:
+            cpu: 10m
+            memory: 10Mi
+        env:
+        - name: ConnectionStrings__RabbitMQConnection
+          value: "host=host.docker.internal:5672;username=guest;password=_myguest;publisherConfirms=true;timeout=10"
+        

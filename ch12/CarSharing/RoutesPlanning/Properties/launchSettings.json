@@ -1,0 +1,47 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "environmentVariables": {
+        
+        //place here your environment variables
+        "ConnectionStrings__DefaultConnection": "Server=localhost;Database=RoutesPlanning;User Id=sa;Password=Passw0rd_;Trust Server Certificate=True;MultipleActiveResultSets=true",
+        "ConnectionStrings__RabbitMQConnection": "host=localhost:5672;username=guest;password=_myguest;publisherConfirms=true;timeout=10",
+        "Messages__SubscriptionIdPrefix": "routesPlanning",
+        "Topology__MaxDistanceKm": "50",
+        "Topology__MaxMatches": "5",
+        "Timing__HousekeepingIntervalHours": "48",
+        "Timing__HousekeepingDelayDays": "10",
+        "Timing__OutputEmptyDelayMS": "500",
+        "Timing__OutputBatchCount": "10",
+        "Timing__OutputRequeueDelayMin": "5",
+        "Timing__OutputCircuitBreakMin": "4"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5212"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {
+        "ASPNETCORE_HTTP_PORTS": "8080",
+        //place here your environment variables
+        "ConnectionStrings__DefaultConnection": "Server=host.docker.internal;Database=RoutesPlanning;User Id=sa;Password=Passw0rd_;Trust Server Certificate=True;MultipleActiveResultSets=true",
+        "ConnectionStrings__RabbitMQConnection": "host=host.docker.internal:5672;username=guest;password=_myguest;publisherConfirms=true;timeout=10",
+        "Messages__SubscriptionIdPrefix": "routesPlanning",
+        "Topology__MaxDistanceKm": "50",
+        "Topology__MaxMatches": "5",
+        "Timing__HousekeepingIntervalHours": "48",
+        "Timing__HousekeepingDelayDays": "10",
+        "Timing__OutputEmptyDelayMS": "500",
+        "Timing__OutputBatchCount": "10",
+        "Timing__OutputRequeueDelayMin": "5",
+        "Timing__OutputCircuitBreakMin": "4"
+
+      },
+      "publishAllPorts": true,
+      "useSSL": false
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json"
+}
