@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageTrigger", "BlobS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageTriggerEventGrid", "BlobStorageTriggerEventGrid\BlobStorageTriggerEventGrid.csproj", "{1E09D074-68DF-447B-8B88-BC6769B2A3D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My-Best-Matches", "My-Best-Matches\My-Best-Matches.csproj", "{0D4039F4-F31B-4C15-88E2-ECD57F597EA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E09D074-68DF-447B-8B88-BC6769B2A3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4039F4-F31B-4C15-88E2-ECD57F597EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4039F4-F31B-4C15-88E2-ECD57F597EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4039F4-F31B-4C15-88E2-ECD57F597EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4039F4-F31B-4C15-88E2-ECD57F597EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
