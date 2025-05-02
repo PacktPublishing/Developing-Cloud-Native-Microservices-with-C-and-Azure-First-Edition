@@ -7,9 +7,6 @@ using System.Threading.Tasks;
 
 namespace RoutesPlanningDomainLayer.Events
 {
-    public class NewMatchCandidateEvent<T>(T matchCandidate):
-        IEventNotification
-    {
-        public T MatchCandidate => matchCandidate;
-    }
+    public record NewMatchCandidateEvent<T>(T MatchCandidate) : IEventNotification;
+    
 }

@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 
 namespace RoutesPlanningApplicationServices.Commands
 {
-    public class HouseKeepingCommand(int deleteDelay): ICommand
-    {
-        public int DeleteDelay => deleteDelay;
-    }
+    public record HouseKeepingCommand(int DeleteDelay) : ICommand;
+    
 }
