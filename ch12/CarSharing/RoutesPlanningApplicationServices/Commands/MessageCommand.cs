@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 
 namespace RoutesPlanningApplicationServices.Commands
 {
-    public class MessageCommand<T>(T message): ICommand
-    {
-        public T Message => message;
-    }
+    public class MessageCommand<T>(T Message) : ICommand;
+    
 }
