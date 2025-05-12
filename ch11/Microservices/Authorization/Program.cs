@@ -1,4 +1,4 @@
-using Authorization.Controllers;
+using Authorization.JWT;
 using Microsoft.IdentityModel.Tokens; // Importing the Microsoft.IdentityModel.Tokens namespace
 using Microsoft.OpenApi.Models; // Importing the Microsoft.OpenApi.Models namespace
 

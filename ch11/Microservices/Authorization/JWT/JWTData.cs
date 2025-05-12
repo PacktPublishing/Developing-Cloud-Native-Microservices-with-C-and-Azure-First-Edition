@@ -1,14 +1,14 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 
-namespace Authorization.Controllers
+namespace Authorization.JWT
 {
-    public class JWT
+    public class JWTData
     {
         // Private field to store the JWT token
         private JwtSecurityToken token;
 
         // Internal constructor to initialize the JWT with a given token
-        internal JWT(JwtSecurityToken token)
+        internal JWTData(JwtSecurityToken token)
         {
             this.token = token;
         }
@@ -17,6 +17,6 @@ namespace Authorization.Controllers
         public DateTime ValidTo => token.ValidTo;
 
         // Property to get the string representation of the token
-        public string Value => new JwtSecurityTokenHandler().WriteToken(this.token);
+        public string Value => new JwtSecurityTokenHandler().WriteToken(token);
     }
 }

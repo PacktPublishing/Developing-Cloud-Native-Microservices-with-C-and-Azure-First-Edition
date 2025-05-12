@@ -1,9 +1,8 @@
-﻿
-using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
-namespace Authorization.Controllers
+namespace Authorization.JWT
 {
     internal class JWTBuilder // Defining the JWTBuilder class
     {
@@ -44,7 +43,7 @@ namespace Authorization.Controllers
 
         public JWTBuilder AddClaim(string type, string value) // Method to add a single claim
         {
-            this.claims.Add(type, value); // Adding the claim to the dictionary
+            claims.Add(type, value); // Adding the claim to the dictionary
             return this; // Returning the current instance
         }
 
@@ -60,25 +59,25 @@ namespace Authorization.Controllers
             return this; // Returning the current instance
         }
 
-        public JWT  Build() // Method to build the JWT
+        public JWTData  Build() // Method to build the JWT
         {
             var claims = new List<Claim> // Creating a list of claims
                 {
-                    new Claim(JwtRegisteredClaimNames.Sub,this.subject), // Adding the subject claim
+                    new Claim(JwtRegisteredClaimNames.Sub,subject), // Adding the subject claim
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()) // Adding a unique identifier claim
                 }.Union(this.claims.Select(item => new Claim(item.Key, item.Value))); // Adding the additional claims
 
             var token = new JwtSecurityToken( // Creating the JWT token
-                issuer: this.issuer, // Setting the issuer
-                audience: this.audience, // Setting the audience
+                issuer: issuer, // Setting the issuer
+                audience: audience, // Setting the audience
                 claims: claims, // Setting the claims
                 expires: DateTime.UtcNow.AddMinutes(expiryInMinutes), // Setting the expiry time
                 signingCredentials: new SigningCredentials( // Setting the signing credentials
-                                                   this.securityKey, // Using the security key
+                                                   securityKey, // Using the security key
                                                    SecurityAlgorithms.HmacSha256) // Using the HMAC SHA256 algorithm
                 );
 
-            return new JWT(token); // Returning the JWT
+            return new JWTData(token); // Returning the JWT
         }
     }
 }

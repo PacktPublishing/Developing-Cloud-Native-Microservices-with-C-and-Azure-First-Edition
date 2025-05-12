@@ -1,9 +1,0 @@
-@ch10_HostAddress = http://localhost:5028
-
-GET {{ch10_HostAddress}}/weatherforecast/
-Accept: application/json
-
-POST {{ch10_HostAddress}}/token/
-Accept: application/json
-
-###

@@ -1,8 +1,7 @@
-﻿
-using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
-namespace Authorization.Controllers
+namespace Authorization.JWT
 {
     internal class JwtSecurityKey // Defining an internal class named JwtSecurityKey
     {

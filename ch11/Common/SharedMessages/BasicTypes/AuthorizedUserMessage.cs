@@ -4,9 +4,11 @@ using System.Text;
 
 namespace SharedMessages.BasicTypes
 {
-    public class UserBasicInfoMessage : LoginBasicInfoMessage
+    public class AuthorizedUserMessage
     {
-        public Guid Id { get; set; }
+        public Guid UserId { get; set; }
         public string? DisplayName { get; set; }
+        public string Token { get; set; }
+        public DateTime ValidTo { get; set; }
     }
 }
